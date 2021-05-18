@@ -1,4 +1,6 @@
-# pretend-gorillas
+# Pretend Gorillas #
+
+A repository with dummy data for git demos.
 
 https://github.com/pm1988/pretend-gorillas/blob/main/WesternLowlandGorilla03.jpg
 
